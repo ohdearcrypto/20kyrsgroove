@@ -23,6 +23,9 @@ I guess it wouldn't be called 'making it' any more. It would be a given option f
 <img src="{{site.url}}/images/base/green.png" alt="Young woman with green phone" style="display: block; margin: auto;" />
 
 ### What if every viral post, every remix, every share actually paid you?
+
+<img src="{{site.url}}/images/base/squares.png" alt="Lots of squares with images and numbers" style="display: block; margin: auto;" />
+
 People would share and post like crazy.
 
 ### What if that one crazy idea became the thing that made millions?
@@ -37,6 +40,9 @@ Then it gets interesting. It is getting interesting.
 Coinbase? Scary.
 
 ### What if you made the next move?
+
+<img src="{{site.url}}/images/base/you.png" alt="Young man and the word YOU" style="display: block; margin: auto;" />
+
 I'm trying.
 
 ### A new way to make it.
