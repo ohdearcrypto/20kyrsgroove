@@ -50,8 +50,8 @@ Coinbase? Scary.
 
 I'm trying.
 
-### A new way to make it.
+<img src="{{site.url}}/images/base/you2.png" alt="Young woman and the word YOU" style="display: block; margin: auto;" />
+
+### A new way to make it. [Base](https://join.base.app).
 
 <img src="{{site.url}}/images/base/base.png" alt="Base logo on white background" style="display: block; margin: auto;" />
-
-[Base](https://join.base.app)
