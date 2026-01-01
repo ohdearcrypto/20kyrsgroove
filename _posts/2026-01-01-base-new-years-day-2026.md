@@ -22,7 +22,7 @@ I guess it wouldn't be called 'making it' any more. It would be a given option f
 
 ### What if every viral post, every remix, every share actually paid you?
 
-<img src="{{site.url}}/images/base/squares.png" alt="Lots of squares with images and numbers" style="display: block; margin: auto;" />
+<img src="{{site.url}}/images/base/share.png" alt="A woman looks doubtful" style="display: block; margin: auto;" />
 
 People would share and post like crazy.
 
@@ -34,9 +34,13 @@ Then everyone could make millions.
 
 ### What if every product fit together letting anyone build on what came before?
 
+<img src="{{site.url}}/images/base/squares.png" alt="Lots of squares with images and numbers" style="display: block; margin: auto;" />
+
 Then it gets interesting. It is getting interesting.
 
 ### What if the next internet was built and owned by us?
+
+<img src="{{site.url}}/images/base/money.png" alt="Money, people in a graph" style="display: block; margin: auto;" />
 
 Coinbase? Scary.
 
@@ -47,4 +51,7 @@ Coinbase? Scary.
 I'm trying.
 
 ### A new way to make it.
+
+<img src="{{site.url}}/images/base/base.png" alt="Base logo on white background" style="display: block; margin: auto;" />
+
 [Base](https://join.base.app)
