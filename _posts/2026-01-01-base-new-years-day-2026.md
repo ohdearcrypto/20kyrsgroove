@@ -4,8 +4,6 @@ date: 2026-01-01
 layout: post
 ---
 
-### What is Base?  
-
 ### What if anyone could make it?
 
 <img src="{{site.url}}/images/base/handsky.png" alt="Hand reaching into the sky" style="display: block; margin: auto;" />
@@ -14,7 +12,7 @@ What if?...
 
 ### Not just the lucky few who already have an edge but everyone
 
-<img src="{{site.url}}/images/base/baseboat.png" alt="A cruise ship" style="display: block; margin: auto;" />
+<img src="{{site.url}}/images/base/baseboat1.png" alt="A cruise ship" style="display: block; margin: auto;" />
 
 I guess it wouldn't be called 'making it' any more. It would be a given option for people.
 
@@ -29,14 +27,17 @@ I guess it wouldn't be called 'making it' any more. It would be a given option f
 People would share and post like crazy.
 
 ### What if that one crazy idea became the thing that made millions?
-Then everyone could make millions.
 
 <img src="{{site.url}}/images/base/upward.png" alt="Arrows pointing upwards on a crypto chart" style="display: block; margin: auto;" />
 
+Then everyone could make millions.
+
 ### What if every product fit together letting anyone build on what came before?
+
 Then it gets interesting. It is getting interesting.
 
 ### What if the next internet was built and owned by us?
+
 Coinbase? Scary.
 
 ### What if you made the next move?
