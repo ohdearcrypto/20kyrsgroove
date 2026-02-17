@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "rebornix.ruby",
+    "yzhang.markdown-all-in-one",
+    "davidanson.vscode-markdownlint",
+    "ginfuru.ginfuru-vscode-jekyll-syntax",
+    "sissel.shopify-liquid"
+  ]
+}

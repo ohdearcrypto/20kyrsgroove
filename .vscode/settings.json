@@ -1,0 +1,25 @@
+{
+  "files.associations": {
+    "*.md": "markdown",
+    "*.html": "html"
+  },
+  "files.exclude": {
+    "_site": true,
+    ".jekyll-cache": true,
+    ".sass-cache": true,
+    "Gemfile.lock": false
+  },
+  "search.exclude": {
+    "_site/**": true,
+    ".jekyll-cache/**": true
+  },
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+      "comments": false,
+      "strings": false,
+      "other": false
+    }
+  },
+  "markdown.preview.breaks": true
+}
