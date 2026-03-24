@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-[20,000 Years of Dance Music](https://hullboy73.github.io/20kyrsgroove) is a personal website maintained by [ohdearcrypto](https://github.com/ohdearcrypto) (ohdearcrypto) and currently running on GitHub Pages using the Contrast theme.  
+[20,000 Years of Dance Music](https://ohdearcrypto.github.io/20kyrsgroove) is a personal website maintained by [ohdearcrypto](https://github.com/ohdearcrypto) (ohdearcrypto) and currently running on GitHub Pages using the Contrast theme.  
 
 [GitHub Pages](https://pages.github.com/) is a static web hosting service offered by GitHub since 2008 to GitHub users for hosting user blogs, project documentation, or even whole books created as a page. [Contrast](https://niklasbuschmann.github.io/contrast/) is a Jekyll theme for GitHub Pages.  
 
